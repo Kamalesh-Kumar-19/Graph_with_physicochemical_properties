@@ -32,7 +32,6 @@ def convert_to_pytorch_geometric(G):
                 data['prils_index']         
             ])
         else:
-            # If node doesn't have properties (for group nodes), use a default zero vector for all 15 features
             node_features.append([0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
 
     # Convert node features to torch tensor
