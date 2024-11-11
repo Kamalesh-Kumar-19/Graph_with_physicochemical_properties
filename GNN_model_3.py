@@ -66,7 +66,7 @@ def prepare_data(df, amino_acid_groups):
 
     return data_list
 
-# Modified Training function to track losses and accuracies for each seed
+# Training function to track losses and accuracies for each seed
 def train_model(model, train_loader, val_loader, optimizer, class_weights, epochs=100):
     train_losses = []
     val_losses = []
@@ -231,7 +231,7 @@ def plot_metrics_all_seeds(train_accs, val_accs, train_losses, val_losses, epoch
 if __name__ == '__main__':
     dataset = glob.glob('dataset/Filtered_data/A*.csv')
     
-    # Open a text file to save prints
+    # text file to save prints
     with open('model_training_output.txt', 'w') as f:
         # Redirect stdout to the file
         sys.stdout = f
