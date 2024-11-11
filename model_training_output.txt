@@ -1,0 +1,184 @@
+
+========Running model for random seed 754========
+-----------------------------------------------------
+Metrics for seed 754: Accuracy: 0.8333, Precision: 0.8619, Recall: 0.8333, F1: 0.8402, AUC: 0.8421, MCC: 0.6294
+
+========Running model for random seed 832========
+-----------------------------------------------------
+Metrics for seed 832: Accuracy: 0.8609, Precision: 0.8656, Recall: 0.8609, F1: 0.8627, AUC: 0.8366, MCC: 0.6560
+
+========Running model for random seed 987========
+-----------------------------------------------------
+Metrics for seed 987: Accuracy: 0.7887, Precision: 0.8424, Recall: 0.7887, F1: 0.8014, AUC: 0.8072, MCC: 0.5434
+
+========Running model for random seed 124========
+-----------------------------------------------------
+Metrics for seed 124: Accuracy: 0.8241, Precision: 0.8369, Recall: 0.8241, F1: 0.8281, AUC: 0.8126, MCC: 0.5973
+
+========Running model for random seed 432========
+-----------------------------------------------------
+Metrics for seed 432: Accuracy: 0.8465, Precision: 0.8623, Recall: 0.8465, F1: 0.8512, AUC: 0.8363, MCC: 0.6318
+
+========Running model for random seed 997========
+-----------------------------------------------------
+Metrics for seed 997: Accuracy: 0.8255, Precision: 0.8456, Recall: 0.8255, F1: 0.8311, AUC: 0.8214, MCC: 0.6024
+
+========Running model for random seed 187========
+-----------------------------------------------------
+Metrics for seed 187: Accuracy: 0.8373, Precision: 0.8583, Recall: 0.8373, F1: 0.8434, AUC: 0.8301, MCC: 0.6122
+
+========Running model for random seed 41========
+-----------------------------------------------------
+Metrics for seed 41: Accuracy: 0.8320, Precision: 0.8482, Recall: 0.8320, F1: 0.8364, AUC: 0.8300, MCC: 0.6263
+
+========Running model for random seed 999========
+-----------------------------------------------------
+Metrics for seed 999: Accuracy: 0.8543, Precision: 0.8622, Recall: 0.8543, F1: 0.8569, AUC: 0.8407, MCC: 0.6572
+
+========Running model for random seed 555========
+-----------------------------------------------------
+Metrics for seed 555: Accuracy: 0.8570, Precision: 0.8568, Recall: 0.8570, F1: 0.8569, AUC: 0.8257, MCC: 0.6522
+Accuracy: Mean = 0.8360, 95% CI = [0.8208, 0.8511]
+Precision: Mean = 0.8540, 95% CI = [0.8469, 0.8611]
+Recall: Mean = 0.8360, 95% CI = [0.8208, 0.8511]
+F1 Score: Mean = 0.8408, 95% CI = [0.8279, 0.8538]
+AUC: Mean = 0.8283, 95% CI = [0.8199, 0.8366]
+MCC: Mean = 0.6208, 95% CI = [0.5961, 0.6455]
+
+========Running model for random seed 754========
+-----------------------------------------------------
+Metrics for seed 754: Accuracy: 0.8595, Precision: 0.8589, Recall: 0.8595, F1: 0.8589, AUC: 0.8491, MCC: 0.7045
+
+========Running model for random seed 832========
+-----------------------------------------------------
+Metrics for seed 832: Accuracy: 0.8838, Precision: 0.8839, Recall: 0.8838, F1: 0.8839, AUC: 0.8757, MCC: 0.7509
+
+========Running model for random seed 987========
+-----------------------------------------------------
+Metrics for seed 987: Accuracy: 0.8662, Precision: 0.8659, Recall: 0.8662, F1: 0.8660, AUC: 0.8572, MCC: 0.7156
+
+========Running model for random seed 124========
+-----------------------------------------------------
+Metrics for seed 124: Accuracy: 0.8894, Precision: 0.8913, Recall: 0.8894, F1: 0.8869, AUC: 0.8624, MCC: 0.7574
+
+========Running model for random seed 432========
+-----------------------------------------------------
+Metrics for seed 432: Accuracy: 0.8462, Precision: 0.8527, Recall: 0.8462, F1: 0.8472, AUC: 0.8508, MCC: 0.6928
+
+========Running model for random seed 997========
+-----------------------------------------------------
+Metrics for seed 997: Accuracy: 0.8761, Precision: 0.8803, Recall: 0.8761, F1: 0.8770, AUC: 0.8786, MCC: 0.7468
+
+========Running model for random seed 187========
+-----------------------------------------------------
+Metrics for seed 187: Accuracy: 0.8628, Precision: 0.8625, Recall: 0.8628, F1: 0.8627, AUC: 0.8514, MCC: 0.7045
+
+========Running model for random seed 41========
+-----------------------------------------------------
+Metrics for seed 41: Accuracy: 0.8662, Precision: 0.8689, Recall: 0.8662, F1: 0.8669, AUC: 0.8642, MCC: 0.7199
+
+========Running model for random seed 999========
+-----------------------------------------------------
+Metrics for seed 999: Accuracy: 0.8838, Precision: 0.8875, Recall: 0.8838, F1: 0.8848, AUC: 0.8843, MCC: 0.7566
+
+========Running model for random seed 555========
+-----------------------------------------------------
+Metrics for seed 555: Accuracy: 0.8717, Precision: 0.8712, Recall: 0.8717, F1: 0.8710, AUC: 0.8609, MCC: 0.7297
+Accuracy: Mean = 0.8706, 95% CI = [0.8612, 0.8800]
+Precision: Mean = 0.8723, 95% CI = [0.8631, 0.8816]
+Recall: Mean = 0.8706, 95% CI = [0.8612, 0.8800]
+F1 Score: Mean = 0.8705, 95% CI = [0.8614, 0.8797]
+AUC: Mean = 0.8634, 95% CI = [0.8546, 0.8723]
+MCC: Mean = 0.7279, 95% CI = [0.7108, 0.7449]
+
+========Running model for random seed 754========
+-----------------------------------------------------
+Metrics for seed 754: Accuracy: 0.6097, Precision: 0.6190, Recall: 0.6097, F1: 0.6139, AUC: 0.5515, MCC: 0.1007
+
+========Running model for random seed 832========
+-----------------------------------------------------
+Metrics for seed 832: Accuracy: 0.6022, Precision: 0.5923, Recall: 0.6022, F1: 0.5963, AUC: 0.5540, MCC: 0.1113
+
+========Running model for random seed 987========
+-----------------------------------------------------
+Metrics for seed 987: Accuracy: 0.7658, Precision: 0.7759, Recall: 0.7658, F1: 0.7700, AUC: 0.7211, MCC: 0.4268
+
+========Running model for random seed 124========
+-----------------------------------------------------
+Metrics for seed 124: Accuracy: 0.6171, Precision: 0.7248, Recall: 0.6171, F1: 0.6381, AUC: 0.6513, MCC: 0.2691
+
+========Running model for random seed 432========
+-----------------------------------------------------
+Metrics for seed 432: Accuracy: 0.6543, Precision: 0.7413, Recall: 0.6543, F1: 0.6757, AUC: 0.6678, MCC: 0.2949
+
+========Running model for random seed 997========
+-----------------------------------------------------
+Metrics for seed 997: Accuracy: 0.6803, Precision: 0.6958, Recall: 0.6803, F1: 0.6857, AUC: 0.6644, MCC: 0.3179
+
+========Running model for random seed 187========
+-----------------------------------------------------
+Metrics for seed 187: Accuracy: 0.6654, Precision: 0.6628, Recall: 0.6654, F1: 0.6640, AUC: 0.6378, MCC: 0.2780
+
+========Running model for random seed 41========
+-----------------------------------------------------
+Metrics for seed 41: Accuracy: 0.6914, Precision: 0.6924, Recall: 0.6914, F1: 0.6919, AUC: 0.6510, MCC: 0.3012
+
+========Running model for random seed 999========
+-----------------------------------------------------
+Metrics for seed 999: Accuracy: 0.6320, Precision: 0.6747, Recall: 0.6320, F1: 0.6454, AUC: 0.6155, MCC: 0.2146
+
+========Running model for random seed 555========
+-----------------------------------------------------
+Metrics for seed 555: Accuracy: 0.5613, Precision: 0.6103, Recall: 0.5613, F1: 0.5786, AUC: 0.5280, MCC: 0.0517
+Accuracy: Mean = 0.6480, 95% CI = [0.6070, 0.6889]
+Precision: Mean = 0.6789, 95% CI = [0.6363, 0.7215]
+Recall: Mean = 0.6480, 95% CI = [0.6070, 0.6889]
+F1 Score: Mean = 0.6560, 95% CI = [0.6165, 0.6954]
+AUC: Mean = 0.6243, 95% CI = [0.5802, 0.6683]
+MCC: Mean = 0.2366, 95% CI = [0.1533, 0.3199]
+
+========Running model for random seed 754========
+-----------------------------------------------------
+Metrics for seed 754: Accuracy: 0.6809, Precision: 0.6785, Recall: 0.6809, F1: 0.6793, AUC: 0.6653, MCC: 0.3340
+
+========Running model for random seed 832========
+-----------------------------------------------------
+Metrics for seed 832: Accuracy: 0.6743, Precision: 0.6685, Recall: 0.6743, F1: 0.6697, AUC: 0.6470, MCC: 0.3024
+
+========Running model for random seed 987========
+-----------------------------------------------------
+Metrics for seed 987: Accuracy: 0.6579, Precision: 0.6557, Recall: 0.6579, F1: 0.6567, AUC: 0.6343, MCC: 0.2704
+
+========Running model for random seed 124========
+-----------------------------------------------------
+Metrics for seed 124: Accuracy: 0.6447, Precision: 0.7011, Recall: 0.6447, F1: 0.6470, AUC: 0.6728, MCC: 0.3410
+
+========Running model for random seed 432========
+-----------------------------------------------------
+Metrics for seed 432: Accuracy: 0.7072, Precision: 0.7031, Recall: 0.7072, F1: 0.7045, AUC: 0.6785, MCC: 0.3636
+
+========Running model for random seed 997========
+-----------------------------------------------------
+Metrics for seed 997: Accuracy: 0.6382, Precision: 0.6520, Recall: 0.6382, F1: 0.6429, AUC: 0.6270, MCC: 0.2474
+
+========Running model for random seed 187========
+-----------------------------------------------------
+Metrics for seed 187: Accuracy: 0.6842, Precision: 0.7017, Recall: 0.6842, F1: 0.6894, AUC: 0.6782, MCC: 0.3448
+
+========Running model for random seed 41========
+-----------------------------------------------------
+Metrics for seed 41: Accuracy: 0.6974, Precision: 0.7048, Recall: 0.6974, F1: 0.7000, AUC: 0.6877, MCC: 0.3690
+
+========Running model for random seed 999========
+-----------------------------------------------------
+Metrics for seed 999: Accuracy: 0.6711, Precision: 0.6688, Recall: 0.6711, F1: 0.6698, AUC: 0.6443, MCC: 0.2907
+
+========Running model for random seed 555========
+-----------------------------------------------------
+Metrics for seed 555: Accuracy: 0.6250, Precision: 0.6179, Recall: 0.6250, F1: 0.6193, AUC: 0.6005, MCC: 0.2074
+Accuracy: Mean = 0.6681, 95% CI = [0.6492, 0.6870]
+Precision: Mean = 0.6752, 95% CI = [0.6548, 0.6956]
+Recall: Mean = 0.6681, 95% CI = [0.6492, 0.6870]
+F1 Score: Mean = 0.6679, 95% CI = [0.6486, 0.6871]
+AUC: Mean = 0.6536, 95% CI = [0.6337, 0.6734]
+MCC: Mean = 0.3071, 95% CI = [0.2690, 0.3451]
